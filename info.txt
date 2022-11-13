@@ -1,0 +1,5 @@
+As typescript file cannot be ran on browser directly we need to transpile the file in js by the command tsc fileName.ts
+
+for continuosly converting the typescript file in js use the command tsc fileName.ts -w
+
+after creating the tsconfig file inorder to compile the file we have to run the command tsc -w
